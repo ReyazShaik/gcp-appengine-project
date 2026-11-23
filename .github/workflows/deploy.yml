@@ -21,7 +21,7 @@ jobs:
     - name: Set up Cloud SDK
       uses: google-github-actions/setup-gcloud@v1
       with:
-        project_id: stellar-display-508911-i3
+        project_id: my-project6-515613
 
     - name: Deploy to App Engine
       run: |
